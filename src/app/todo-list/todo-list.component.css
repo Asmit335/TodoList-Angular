@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+#btn-submit {
+    margin-top: 20px;
+}
+
+#checkbox {
+    margin-left: 30px;
+}
+
+.task1 {
+    text-transform: capitalize;
+}
